@@ -20,6 +20,7 @@ body{
     color: #e9c46a;
     font-size: 25px;
     margin-top: 40px;
+    font-weight: bold;
 }
 .guess input{
     width: 300px;
